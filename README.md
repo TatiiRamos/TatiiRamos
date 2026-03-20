@@ -8,12 +8,12 @@ Me apasiona la intersección entre el desarrollo frontend seguro y la protecció
 
 ### 🛡️ Ciberseguridad & Pentesting
 - **[Laboratorio DVWA-Docker](https://github.com/TatiiRamos/Laboratorio-DVWA-Docker):** Mi proyecto más reciente donde documento la explotación controlada de vulnerabilidades OWASP Top 10 (SQL Injection y XSS).
-- 
+ 
 - **Fortinet Certified Fundamentals (FCF):** Formación activa en el panorama de amenazas y seguridad de redes.
 
 ### 🌿 Desarrollo Web & Voluntariado
 - **[Awaq-Contributions](https://github.com/TatiiRamos/Awaq-Contributions):** Portafolio de mi etapa como Frontend Developer en Awaq ONGD, trabajando con React, TypeScript y Tailwind CSS para la conservación ambiental.
-- 
+ 
 - **Enfoque técnico:** Creación de interfaces escalables, componentes dinámicos y código tipado estrictamente.
 
 ---
