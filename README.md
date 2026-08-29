@@ -24,5 +24,6 @@ Desarrolladora Frontend y estudiante de Ciberseguridad en la UNSO. Especializada
 
 Disponible para proyectos de desarrollo frontend, auditorías de interfaz y maquetación web segura.
 
+* **Email:** [tu-email@dominio.com](tatiiramos9@gmail.com)
 * **LinkedIn:** [linkedin.com/in/tatiana-ramos-gpti](https://linkedin.com/in/tatiana-ramos-gpti)
-* **Ubicación:** San Fernando, Buenos Aires, Argentina.
+* **Ubicación:** Buenos Aires, Argentina.
