@@ -1,32 +1,28 @@
-# ¡Hola! Soy Tatiana Ramos 👋
+# Tatiana Ramos | Frontend Architecture & Web Security
 
-Estudiante de **Ciberseguridad** en la UNSO 🛡️ y **Desarrolladora Web** 💻 con enfoque en impacto social y ambiental. 
-
-Me apasiona la intersección entre el desarrollo frontend seguro y la protección de infraestructuras digitales.
+Desarrolladora Frontend y estudiante de Ciberseguridad en la UNSO. Especializada en el desarrollo de aplicaciones web escalables, seguras y de alto rendimiento utilizando React, TypeScript y buenas prácticas de seguridad informática.
 
 ---
 
-### 🛡️ Ciberseguridad & Pentesting
-- **[Laboratorio DVWA-Docker](https://github.com/TatiiRamos/Laboratorio-DVWA-Docker):** Mi proyecto más reciente donde documento la explotación controlada de vulnerabilidades OWASP Top 10 (SQL Injection y XSS).
- 
-- **Fortinet Certified Fundamentals (FCF):** Formación activa en el panorama de amenazas y seguridad de redes.
+### Proyectos Destacados
 
-### 🌿 Desarrollo Web & Voluntariado
-- **[Awaq-Contributions](https://github.com/TatiiRamos/Awaq-Contributions):** Portafolio de mi etapa como Frontend Developer en Awaq ONGD, trabajando con React, TypeScript y Tailwind CSS para la conservación ambiental.
- 
-- **Enfoque técnico:** Creación de interfaces escalables, componentes dinámicos y código tipado estrictamente.
+* **Infrax (Security Audit & Frontend):** Arquitectura frontend e implementación de pruebas de seguridad para entornos muti-tenant.
+* **Laboratorio DVWA (Docker):** Análisis y documentación sobre mitigación de vulnerabilidades web (OWASP Top 10, SQLi, XSS) en entornos aislados.
+* **Awaq Contributions:** Desarrollo de interfaces dinámicas y componentes reutilizables con React, TypeScript y Tailwind CSS para proyectos de conservación ambiental.
 
 ---
 
-### 🛠️ Mi Stack Técnico
-- **Seguridad:** Docker (Sandbox), OWASP Analysis, Network Security.
-- **Frontend:** React.js, TypeScript, Tailwind CSS, JavaScript (ES6+).
-- **Herramientas:** Linux, Git, GitHub, VS Code.
+### Stack Técnico
+
+* **Frontend:** React.js, TypeScript, JavaScript (ES6+), HTML5, CSS3/Tailwind CSS.
+* **Seguridad & DevOps:** Docker, Análisis OWASP, Hardening Web, Linux, Git / GitHub.
+* **Certificaciones:** Fortinet Certified Fundamentals (FCF).
 
 ---
 
-### 📫 Conectemos
-- **LinkedIn:** [linkedin.com/in/tatiana-ramos-gpti](https://www.linkedin.com/in/tatiana-ramos-gpti/)
-- **Ubicación:** San Fernando, Buenos Aires, Argentina.
+### Contacto & Servicios Freelance
 
-"Transformando líneas de código en soluciones seguras para un futuro sostenible."
+Disponible para proyectos de desarrollo frontend, auditorías de interfaz y maquetación web segura.
+
+* **LinkedIn:** [linkedin.com/in/tatiana-ramos-gpti](https://linkedin.com/in/tatiana-ramos-gpti)
+* **Ubicación:** San Fernando, Buenos Aires, Argentina.
