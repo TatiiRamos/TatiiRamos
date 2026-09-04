@@ -1,4 +1,4 @@
-# Tatiana Ramos | Frontend Architecture & Web Security 
+# Tatiana Ramos | Frontend Developer & Cybersecurity Enthusiast
 
 Desarrolladora Frontend y estudiante de Ciberseguridad en la UNSO. Especializada en el desarrollo de aplicaciones web escalables, seguras y de alto rendimiento utilizando React, TypeScript y buenas prácticas de seguridad informática.
 
