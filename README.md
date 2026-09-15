@@ -1,4 +1,5 @@
 # Tatiana Ramos | Frontend Developer & Cybersecurity Enthusiast
+*[🇬🇧 Read in English](./README_en.md)*
 
 Desarrolladora Frontend y estudiante de Ciberseguridad en la UNSO. Especializada en el desarrollo de aplicaciones web escalables, seguras y de alto rendimiento utilizando React, TypeScript y buenas prácticas de seguridad informática. Co-fundadora de **INFRAX**, una plataforma SaaS multi-tenant para gestión empresarial.
 
