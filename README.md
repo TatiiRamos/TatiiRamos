@@ -6,6 +6,7 @@ Desarrolladora Frontend y estudiante de Ciberseguridad en la UNSO. Especializada
 ---
 
 🚀 INFRAX — Plataforma SaaS Multi-tenant
+
 Sistema integral de gestión operacional (control de stock, gastos, personal y clientes) diseñado para brindar visibilidad clara y toma de decisiones estratégicas en tiempo real. Un solo codebase con aislamiento estricto de datos por empresa y control de accesos granular.
 
 Mi rol: arquitectura frontend completa — sistema de temas y personalización por tenant, flujos de autenticación segura (OAuth y WebAuthn) y hardening de login siguiendo estándares OWASP Top 10.
