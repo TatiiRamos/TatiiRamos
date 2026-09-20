@@ -5,15 +5,13 @@ Desarrolladora Frontend y estudiante de Ciberseguridad en la UNSO. Especializada
 
 ---
 
-## 🚀 INFRAX — Plataforma SaaS Multi-tenant
+🚀 INFRAX — Plataforma SaaS Multi-tenant
+Sistema integral de gestión operacional (control de stock, gastos, personal y clientes) diseñado para brindar visibilidad clara y toma de decisiones estratégicas en tiempo real. Un solo codebase con aislamiento estricto de datos por empresa y control de accesos granular.
 
-Sistema integral de gestión empresarial (stock, gastos, asistencias, clientes) con motor de métricas centralizado. Un solo codebase, aislamiento real de datos por empresa, roles configurables sin tocar código.
-
-- **Mi rol:** arquitectura frontend completa — sistema de tokens/theming por tenant, flujo de autenticación OAuth + biometría WebAuthn, hardening de login (rate limiting, anti user-enumeration) siguiendo OWASP Top 10.
-- **Stack:** React, TypeScript, Tailwind CSS, Firebase (Auth, Firestore, Cloud Functions).
-- **Estado:** en desarrollo activo — abiertas conversaciones con early adopters y empresas interesadas en implementarlo.
-
-📩 ¿Te interesa una demo de INFRAX para tu empresa? Escribime a **tatiiramos9@gmail.com**.
+Mi rol: arquitectura frontend completa — sistema de temas y personalización por tenant, flujos de autenticación segura (OAuth y WebAuthn) y hardening de login siguiendo estándares OWASP Top 10.
+Stack: React, TypeScript, Tailwind CSS, Firebase (Auth, Firestore, Cloud Functions).
+Estado: en desarrollo activo — abiertas conversaciones con early adopters y empresas interesadas en implementarlo.
+📩 ¿Te interesa una demo de INFRAX para tu empresa? Escribime a tatiiramos9@gmail.com.
 
 ---
 
